@@ -1,0 +1,58 @@
+html {
+    font-size: 62.5%;
+}
+
+h3 {
+    font-size: 1.8rem;
+}
+
+#main {
+    background-color: #eee;
+    min-height: 100vh;
+    padding: 2.4rem;
+    border-radius: 0.6rem;
+    background-origin: border-box;
+    text-align: center;
+}
+
+#title {
+    margin: 0;
+    font-size: 4rem;
+    padding: 4rem 0;
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.2rem;
+    background-color: white;
+}
+
+#image {
+    min-width: 100vmin;
+    height: auto;
+    max-width: 100%;
+}
+
+#img-caption {
+    font-size: 1.6rem;
+    padding: 2rem;
+}
+
+#tribute-info_title {
+    font-size: 2rem;
+}
+
+#list-time-line {
+    max-width: 52rem;
+    margin: auto;
+    text-align: left;
+    font-size: 1.6rem;
+    display: block;
+}
+
+#tribute-link {
+    text-decoration: none;
+}
